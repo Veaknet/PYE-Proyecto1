@@ -1,0 +1,13 @@
+N_Ini,18000
+I_Ini,150
+Min_D_Late,2
+Max_D_Late,4
+p_D_E,0.2
+Cant_Corr,25
+D_Corr,70
+Factor_Contagio,0.9
+Factor_Muta,0.1
+Max_D_E,6
+Costo_D_E,0.1
+Costo_F_E,0.91
+Costo_Muerte,1.1
